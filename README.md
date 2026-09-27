@@ -7,7 +7,7 @@
 - 🛠 i have projects in prototyping on Arduino
 - 🎯 i do have some projects in the data science field
 - 💬 open to work 
-- I am currently a computer engineering student
+- I am currently a firmware student
 
 
 
